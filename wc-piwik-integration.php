@@ -5,13 +5,13 @@ Plugin Name: WooCommerce Piwik integration
 Description: Provides support for Piwik integration via the WP-Piwik plugin in your WooCommerce powered store.
 Author: Coen Jacobs
 Author URI: http://coenjacobs.me
-Version: 0.1
+Version: 0.1.1
 */
 
 if ( ! function_exists( 'woocommerce_ecommerce_tracking_piwik' ) ) {
-	add_action( 'woocommerce_thankyou', 'woocommerce_ecommerce_tracking_piwik' );
+	add_action( 'woocommerce_thankyou', 'wcpiwik_ecommerce_tracking_piwik' );
 
-	function woocommerce_ecommerce_tracking_piwik( $order_id ) {
+	function wcpiwik_ecommerce_tracking_piwik( $order_id ) {
 		global $woocommerce;
 
 		// Don't track admin

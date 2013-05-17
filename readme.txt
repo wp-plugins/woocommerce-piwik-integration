@@ -4,7 +4,7 @@ Tags: woocommerce, piwik
 Donate link: http://coenjacobs.me/en/donate/
 Requires at least: 3.5
 Tested up to: 3.5
-Stable tag: 0.1
+Stable tag: 0.1.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -31,3 +31,11 @@ Or use the automatic installation wizard through your admin panel, just search f
 = Where can I find the setting for this plugin? =
 
 This plugin has no settings. It just integrates WooCommerce with your own Piwik install and the WP-Piwik plugin.
+
+== Changelog ==
+
+= 0.1.1 - 17/05/2013 =
+ * Fix: Make this compatible with versions before WooCommerce 2.1
+
+= 0.1 - 02/05/2013 =
+ * Initial release to get this up on wordpress.org
