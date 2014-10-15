@@ -8,25 +8,22 @@ Stable tag: 2.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-The Piwik integration plugin allows you to seamlessly integrate your Piwik service with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track ecommerce data – orders, purchased items, abandoned carts, plus much more. Integrates with WP-Piwik if installed.
+The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud or self-hosted Piwik with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track ecommerce data – orders, purchased items, abandoned carts, plus much more. The plugin integrates also with WP-Piwik if installed.
 
 == Description ==
 
-The Piwik integration plugin allows you to seamlessly integrate your Piwik service with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track ecommerce data – orders, purchased items, abandoned carts, plus much more. Integrates with WP-Piwik if installed.
+The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud or self-hosted Piwik with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track ecommerce data – orders, purchased items, abandoned carts, plus much more. The plugin integrates also with WP-Piwik if installed.
+
+= Piwik features =
+
+Piwik provides you with all the data, information, metrics, widgets and reports that you will need in order to better understand your Ecommerce website. The Piwik platform will enable you to view how many users visit your Ecommerce store, what actions they complete, which pages they view, who referred them to your website, plus provide you with detailed Ecommerce data and information (shopping cart data, tracking orders, purchased items, etc). Piwik is committed to protecting your users' privacy, giving you full ownership of your data. Analysing data and information about your visitors and their actions will enable you to make informative changes to your website that will increase your traffic and boost conversions and purchases.
 
 = What is Piwik Cloud? =
 
-Piwik Cloud is the hosted version of Piwik, the popular open source web analytics platform. It allows you to enjoy all the amazing features and functions that Piwik has to offer, without the hassle of having to store it on your own infrastructure.
+Piwik Cloud is the hosted version of Piwik from the creators of Piwik.org, the popular open source web analytics platform. It allows you to enjoy all the amazing features and functions that Piwik has to offer, without the hassle of having to store it on your own infrastructure.
+Piwik Cloud comes with FREE technical and user support, 24/7 infrastructure monitoring, plus many other amazing features.
 
-= Piwik Cloud features =
-
-Piwik Cloud provides you with all the data, information, metrics, widgets and reports that you will need in order to better understand your Ecommerce website.
-The Piwik platform will enable you to view how many users visit your Ecommerce store, what actions they complete, which pages they view, who referred them to your website, plus provide you with detailed Ecommerce data and information (shopping cart data, tracking orders, purchased items, etc).
-Piwik Cloud comes with a full-service Piwik platform, FREE technical and user support, 24/7 infrastructure monitoring, plus many other amazing features.
-Piwik is committed to protecting your users' privacy, giving you full ownership of your data, and keeping your Piwik service secure.
-Analysing data and information about your visitors and their actions will enable you to make informative changes to your website that will increase your traffic and boost conversions and purchases.
-
-Visit the <a href="https://piwik.pro">Piwik PRO website</a> for more information about Piwik PRO.
+Visit the <a href="https://piwik.pro">Piwik PRO website</a> for more information about Piwik Cloud.
 
 == Installation ==
 
