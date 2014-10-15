@@ -12,6 +12,21 @@ Provides support for Piwik and Piwik PRO integration in your WooCommerce powered
 
 == Description ==
 
+Provides support for Piwik and Piwik PRO integration in your WooCommerce powered store. Integrates with WP-Piwik if installed.
+
+= What is Piwik Cloud? =
+
+Piwik Cloud is the hosted version of Piwik, the popular open source web analytics platform. It allows you to enjoy all the amazing features and functions that Piwik has to offer, without the hassle of having to store it on your own infrastructure.
+
+= Piwik Cloud features =
+
+Piwik Cloud provides you with all the data, information, metrics, widgets and reports that you will need in order to better understand your Ecommerce website.
+The Piwik platform will enable you to view how many users visit your Ecommerce store, what actions they complete, which pages they view, who referred them to your website, plus provide you with detailed Ecommerce data and information (shopping cart data, tracking orders, purchased items, etc).
+Piwik Cloud comes with a full-service Piwik platform, FREE technical and user support, 24/7 infrastructure monitoring, plus many other amazing features.
+Piwik is committed to protecting your users' privacy, giving you full ownership of your data, and keeping your Piwik service secure.
+Analysing data and information about your visitors and their actions will enable you to make informative changes to your website that will increase your traffic and boost conversions and purchases.
+
+Visit the <a href="https://piwik.pro">Piwik PRO website</a> for more information about Piwik PRO.
 
 == Installation ==
 
@@ -27,6 +42,19 @@ Or use the automatic installation wizard through your admin panel, just search f
 = Where can I find the setting for this plugin? =
 
 In admin menu, click on WooCommerce -> Settings, and switch to Integration tab
+
+= This plugin is not working! =
+Please check if you are visiting your shop as a non-admin user. This plugin is not tracking any admin activity.
+If it still does not work please contact us using the "Support" tab above.
+
+== Screenshots ==
+
+1. **Piwik Cloud integration** - Easy-to-use Piwik Cloud integration
+2. **Standalone Piwik integration** - standalone Piwik integration settings
+3. **Ecommerce: chart** - Ecommerce goal view in Piwik
+4. **Ecommerce: products** - Ecommerce product name view
+5. **Visit details** - Detailed visit info including Ecommerce order
+6. **Abandoned carts** - Support for abandoned carts
 
 == Changelog ==
 
