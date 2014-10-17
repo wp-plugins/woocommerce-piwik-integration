@@ -8,7 +8,7 @@ Stable tag: 2.0
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud or self-hosted Piwik with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track ecommerce data – orders, purchased items, abandoned carts, plus much more. The plugin integrates also with WP-Piwik if installed.
+The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud or self-hosted Piwik with the WooCommerce plugin.
 
 == Description ==
 
