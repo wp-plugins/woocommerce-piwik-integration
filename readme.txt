@@ -12,11 +12,11 @@ The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud
 
 == Description ==
 
-The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud or self-hosted Piwik with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track ecommerce data – orders, purchased items, abandoned carts, plus much more. The plugin integrates also with WP-Piwik if installed.
+The Piwik integration plugin allows you to seamlessly integrate your Piwik Cloud or self-hosted Piwik with the WooCommerce plugin. Integrating Piwik with your WooCommerce store will enable you to analyse website activity and track Ecommerce data – orders, purchased items, abandoned carts, plus much more. The plugin integrates also with WP-Piwik if installed.
 
 = Piwik features =
 
-Piwik provides you with all the data, information, metrics, widgets and reports that you will need in order to better understand your Ecommerce website. The Piwik platform will enable you to view how many users visit your Ecommerce store, what actions they complete, which pages they view, who referred them to your website, plus provide you with detailed Ecommerce data and information (shopping cart data, tracking orders, purchased items, etc). Piwik is committed to protecting your users' privacy, giving you full ownership of your data. Analysing data and information about your visitors and their actions will enable you to make informative changes to your website that will increase your traffic and boost conversions and purchases.
+Piwik provides you with all the data, information, metrics, widgets and reports that you will need in order to better understand your Ecommerce website. The Piwik platform will enable you to view how many users visit your Ecommerce store, what actions they complete, which pages they view, who referred them to your website, plus provide you with detailed Ecommerce data and information (shopping cart data, tracking orders, purchased items, etc). Piwik is committed to protecting your users' privacy by giving you full ownership of your data. Analysing data and information about your visitors and their actions will enable you to make informative changes to your website that will increase your traffic and boost conversions and purchases.
 
 = What is Piwik Cloud? =
 
@@ -32,16 +32,16 @@ Visit the <a href="https://piwik.pro">Piwik PRO website</a> for more information
 3. Activate the plugin from the Plugins menu within the WordPress admin.
 4. Go to WooCommerce settings, switch to "Integration" tab and integrate with your Piwik installation.
 
-Or use the automatic installation wizard through your admin panel, just search for this plugins name.
+Or use the automatic installation wizard through your admin panel, just search for this plugin's name.
 
 == Frequently Asked Questions ==
 
 = Where can I find the setting for this plugin? =
 
-In admin menu, click on WooCommerce -> Settings, and switch to Integration tab
+In the admin menu, click on WooCommerce -> Settings, and switch to Integration tab
 
 = This plugin is not working! =
-Please check if you are visiting your shop as a non-admin user. This plugin is not tracking any admin activity.
+Please check if you are visiting your shop as a non-admin user. This plugin does not track any admin activity.
 If it still does not work please contact us using the "Support" tab above.
 
 == Screenshots ==
