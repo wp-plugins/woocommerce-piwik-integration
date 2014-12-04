@@ -21,7 +21,7 @@ Piwik provides you with all the data, information, metrics, widgets and reports 
 = What is Piwik Cloud? =
 
 Piwik Cloud is the hosted version of Piwik from the creators of Piwik.org, the popular open source web analytics platform. It allows you to enjoy all the amazing features and functions that Piwik has to offer, without the hassle of having to store it on your own infrastructure.
-Piwik Cloud comes with FREE technical and user support, 24/7 infrastructure monitoring, plus many other amazing features.
+Piwik Cloud comes with technical and user support, 24/7 infrastructure monitoring, plus many other amazing features.
 
 Visit the <a href="https://piwik.pro">Piwik PRO website</a> for more information about Piwik Cloud.
 
