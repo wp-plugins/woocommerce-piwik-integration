@@ -1,14 +1,4 @@
 <?php
-
-/**
- * Plugin Name: WooCommerce Piwik integration
- * Plugin URI: http://wordpress.org/plugins/woocommerce-piwik-integration/
- * Description: Allows Piwik and Piwik PRO tracking code to be inserted into WooCommerce store pages.
- * Author: Piwik PRO
- * Author URI: http://www.piwik.pro
- * Version: 2.0.0
- */
-
 /**
  * Piwik Integration
  *
@@ -369,6 +359,10 @@ class WC_Piwik extends WC_Integration {
     protected function getEncodedCategoriesByProduct($product)
     {
         $categories = get_the_terms($product->post->ID, 'product_cat' );
+
+        if (!$categories) {
+            $categories = array();
+        }
 
         $categories = array_map(function($element) {
             return sprintf("'%s'", urlencode($element->name));
